@@ -1,0 +1,13 @@
+{
+  "name": "fh-experiment",
+  "version": "0.1.0",
+  "description": "Front-hub Experiment",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Rafael Camargo <hello@rafaelcamargo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
